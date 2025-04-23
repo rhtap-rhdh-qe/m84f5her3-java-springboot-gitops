@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: m84f5her3-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/m84f5her3-java-springboot
